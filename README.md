@@ -60,9 +60,9 @@ The goal was to identify top-performing outlets, understand sales patterns, and 
 ---
 
 ### 🧑‍💻 Developed By  
-**Vaibhav [Your Last Name]**  
-📧 [Your Email Address]  
-🔗 [LinkedIn Profile] | [GitHub Profile]
+**Vaibhav Sabale**  
+📧 [vaibhavsabale2004@gmail.com]  
+🔗 [www.linkedin.com/in/vaibhav-sabale-691362284]
 
 ---
 
