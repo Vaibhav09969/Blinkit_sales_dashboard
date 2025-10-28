@@ -61,8 +61,8 @@ The goal was to identify top-performing outlets, understand sales patterns, and 
 
 ### 🧑‍💻 Developed By  
 **Vaibhav Sabale**  
-📧 [vaibhavsabale2004@gmail.com]  
-🔗 [www.linkedin.com/in/vaibhav-sabale-691362284]
+📧 vaibhavsabale2004@gmail.com
+🔗 www.linkedin.com/in/vaibhav-sabale-691362284
 
 ---
 
