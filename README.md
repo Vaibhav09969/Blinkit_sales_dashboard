@@ -1,6 +1,6 @@
 # 🟡 Blinkit Sales Dashboard – SQL & Excel
 
-![Blinkit Sales Dashboard Preview](blinkit_dashboard.png)
+![Blinkit Sales Dashboard Preview](SQL.png)
 
 ### 📊 Project Overview  
 This project analyzes Blinkit’s sales data using **SQL** for data cleaning and KPI generation, and **Excel** for dashboard creation and visualization.  
