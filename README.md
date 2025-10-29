@@ -69,12 +69,6 @@ The goal was to uncover actionable insights on outlet performance, product deman
 
 ---
 
-### 🧑‍💻 Developed By  
-**Vaibhav [Your Last Name]**  
-📧 [Your Email Address]  
-🔗 [LinkedIn Profile] | [GitHub Profile]
-
----
 
 ### 🏷️ Tags  
 `SQL` `Excel` `Dashboard` `Data Analysis` `Business Insights` `Data Cleaning` `KPI`
