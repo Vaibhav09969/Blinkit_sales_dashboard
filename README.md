@@ -1,71 +1,75 @@
 # 🟡 Blinkit Sales Dashboard – SQL & Excel
 
+![Blinkit Sales Dashboard Preview](blinkit_dashboard.png)
+
 ### 📊 Project Overview  
-This project focuses on analyzing Blinkit’s sales performance using **SQL** for data cleaning and KPI generation, and **Excel** for dashboard creation and visualization.  
-The goal was to identify top-performing outlets, understand sales patterns, and deliver data-driven insights through an interactive Excel dashboard.
+This project analyzes Blinkit’s sales data using **SQL** for data cleaning and KPI generation, and **Excel** for dashboard creation and visualization.  
+The goal was to uncover actionable insights on outlet performance, product demand, and sales trends — enabling data-driven decisions for business optimization.
 
 ---
 
 ### 🧮 Tools & Technologies  
 - **SQL** – Data cleaning, transformation, and KPI calculation  
-- **Excel** – Data validation, pivot analysis, and dashboard visualization  
+- **Excel** – Pivot tables, charts, and dashboard creation  
 - **Power Query (Excel)** – Data transformation and automation  
 
 ---
 
 ### ⚙️ Project Workflow  
-1. **Data Extraction & Cleaning (SQL):**
-   - Removed inconsistencies and null values  
-   - Standardized product categories and outlet names  
+1. **Data Extraction & Cleaning (SQL):**  
+   - Removed inconsistencies, duplicates, and null values  
+   - Standardized column names and product categories  
    - Created KPIs such as `Total Sales`, `Average Rating`, and `Outlet Performance`
 
-2. **Data Validation (Excel):**
-   - Verified sales and profit metrics using pivot tables  
-   - Applied filters and formulas to check data consistency  
+2. **Data Validation (Excel):**  
+   - Imported SQL-cleaned data into Excel  
+   - Verified KPI accuracy through pivot tables and filters  
+   - Applied conditional formatting for quick anomaly detection  
 
-3. **Dashboard Creation (Excel):**
-   - Built a dynamic dashboard using **Pivot Charts** and **Slicers**  
-   - Designed visuals to represent sales by outlet type, location, and product category  
+3. **Dashboard Creation (Excel):**  
+   - Designed an interactive dashboard using **pivot charts and slicers**  
+   - Visualized performance by **Outlet Type, Location, and Product Category**  
+   - Added KPI cards for quick summary insights  
 
 ---
 
 ### 📈 Key Insights  
-- Tier 3 outlets generated the **highest total sales and growth**.  
-- **Medium-sized outlets** performed better in terms of profitability.  
-- **Low Fat** products maintained consistent sales across regions.  
-- **Excel dashboard** enabled interactive filtering for outlet type, size, and category.  
+- **Tier 3 outlets** generated the highest total sales and revenue growth.  
+- **Medium-sized outlets** delivered the best profit-to-cost balance.  
+- **Low Fat products** maintained consistent sales across multiple regions.  
+- The **Excel dashboard** enabled dynamic exploration by outlet size, product type, and location.  
 
 ---
 
 ### 🚀 Key Features  
 ✅ KPIs at a glance – Total Sales, Average Rating, and Outlet Performance  
-✅ Interactive Excel dashboard with slicers for quick filtering  
-✅ Automated data refresh using Power Query  
-✅ Visual insights for category-wise and outlet-wise performance  
+✅ Interactive Excel dashboard with dynamic slicers and charts  
+✅ Automated data refresh through Power Query  
+✅ Region and product-level performance insights  
 
 ---
 
 ### 🧭 Business Impact  
-- Helped identify **high-performing product categories** and **profitable regions**.  
-- Improved **data accuracy** and **reporting efficiency** through SQL preprocessing.  
-- Enabled **data-driven decisions** for outlet expansion and inventory management.  
+- Provided clarity on **top-performing outlets** and **high-demand product lines**.  
+- Enhanced reporting accuracy and reduced manual analysis effort.  
+- Supported strategic decisions for **regional expansion** and **inventory management**.  
 
 ---
 
 ### 📂 Project Files  
-- `Blinkit_SQL_Queries.sql` – SQL scripts for cleaning and KPI generation  
-- `Blinkit_Sales_Dashboard.xlsx` – Final interactive Excel dashboard  
+- `Blinkit_SQL_Queries.sql` – SQL scripts for cleaning and KPI creation  
+- `Blinkit_Sales_Dashboard.xlsx` – Interactive Excel dashboard  
 - `README.md` – Project documentation  
 
 ---
 
 ### 🧑‍💻 Developed By  
-**Vaibhav Sabale**  
-📧 vaibhavsabale2004@gmail.com
-🔗 www.linkedin.com/in/vaibhav-sabale-691362284
+**Vaibhav [Your Last Name]**  
+📧 [Your Email Address]  
+🔗 [LinkedIn Profile] | [GitHub Profile]
 
 ---
 
 ### 🏷️ Tags  
-`SQL` `Excel` `Data Analysis` `Dashboard` `Business Insights` `KPI` `Data Cleaning`
+`SQL` `Excel` `Dashboard` `Data Analysis` `Business Insights` `Data Cleaning` `KPI`
 
