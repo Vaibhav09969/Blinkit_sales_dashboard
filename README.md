@@ -2,6 +2,8 @@
 ### 📊 SQL 
 ![Blinkit Sales Dashboard Preview](SQL.png)
 
+---
+
 ### 📊 Excel
 
 ![Blinkit Sales Dashboard Preview](Excel.png)
